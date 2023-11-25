@@ -1,0 +1,7 @@
+Homepage: /, GET /
+View Blog Post: /post/:postId, GET /post/:postId
+Dashboard: /dashboard, GET /dashboard
+Add Blog Post: /dashboard/add, GET /dashboard/add, POST /dashboard/add
+Edit Blog Post: /dashboard/edit/:postId, GET /dashboard/edit/:postId, POST /dashboard/edit/:postId
+Delete Blog Post: /dashboard/delete/:postId, POST /dashboard/delete/:postId
+Add Comment: /post/:postId/comment, POST /post/:postId/comment

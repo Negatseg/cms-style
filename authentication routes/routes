@@ -1,0 +1,3 @@
+Signup: /signup, POST /signup
+Login: /login, POST /login
+Logout: /logout
